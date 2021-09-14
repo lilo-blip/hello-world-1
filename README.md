@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Lilian Mutia](https://github.com/lili-blip)
 
 ## Project setup instructions
 To start using this project use the following commands:
